@@ -20,8 +20,8 @@ The output of the web scrapper should be fed into an Excel Workbook (.xlsx or cs
 3. privateinfo.csv - Has Name,Basic information, Detailed information and contacts of all cars in the private link
 4. dealerinfo.csv - Has Name,Basic information, Detailed information and contacts of all cars in the dealer link
 
-# Dviz.ipnb
+# Dviz.ipynb
 Contains the python code
 
-# Dvizapi.ipnd
+# Dvizapi.ipynb
 Contains the flask API
